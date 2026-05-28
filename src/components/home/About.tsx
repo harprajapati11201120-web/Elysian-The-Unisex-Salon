@@ -15,7 +15,7 @@ export function About() {
           >
             <div className="flex items-center gap-4 mb-6">
               <span className="w-12 h-[1px] bg-gold-500"></span>
-              <span className="text-gold-500 uppercase tracking-[0.2em] text-xs font-medium">The Elysian Experience</span>
+              <span className="text-gold-500 uppercase tracking-[0.2em] text-xs font-medium">The Styloura Experience</span>
             </div>
             
             <h2 className="text-4xl sm:text-5xl lg:text-6xl mb-8 leading-tight">
@@ -25,7 +25,7 @@ export function About() {
             
             <div className="space-y-6 text-gray-300 font-light text-lg leading-relaxed max-w-lg">
               <p>
-                Elysian is a premium unisex salon and academy dedicated to enhancing your beauty with expert care and modern techniques. 
+                Styloura is a premium unisex salon and academy dedicated to enhancing your beauty with expert care and modern techniques. 
               </p>
               <p>
                 Our philosophy goes beyond simply styling. We exist to build confidence, to offer an escape, and to continuously raise the standard of the modern salon experience through highly trained staff and an elite academy.

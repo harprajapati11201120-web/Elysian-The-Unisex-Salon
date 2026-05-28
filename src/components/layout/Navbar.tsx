@@ -48,7 +48,7 @@ export function Navbar() {
         {/* Brand */}
         <div className="flex-shrink-0">
           <a href="#home" className="font-serif text-2xl tracking-wider font-bold text-white flex flex-col uppercase">
-            Elysian
+            Styloura
             <span className="font-sans text-[10px] tracking-[0.2em] text-gold-500 font-normal mt-0.5">
               The Unisex Salon
             </span>

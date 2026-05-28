@@ -31,7 +31,7 @@ export function Academy() {
               transition={{ duration: 0.8 }}
             >
               <h2 className="text-4xl sm:text-5xl lg:text-6xl mb-6">
-                Elysian <br className="hidden sm:block" />
+                Styloura <br className="hidden sm:block" />
                 <span className="italic text-gold-500 font-light">Academy</span>
               </h2>
               

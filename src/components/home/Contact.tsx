@@ -63,8 +63,8 @@ export function Contact() {
                 <Mail size={24} className="text-gold-500 shrink-0" strokeWidth={1.5} />
                 <div>
                   <h4 className="text-sm uppercase tracking-widest text-white mb-2">Email</h4>
-                  <a href="mailto:ElysianUnisexSalon@gmail.com" className="text-sm font-light text-gray-400 hover:text-gold-500 transition-colors break-all">
-                    ElysianUnisexSalon@gmail.com
+                  <a href="mailto:StylouraUnisexSalon@gmail.com" className="text-sm font-light text-gray-400 hover:text-gold-500 transition-colors break-all">
+                    StylouraUnisexSalon@gmail.com
                   </a>
                 </div>
               </div>

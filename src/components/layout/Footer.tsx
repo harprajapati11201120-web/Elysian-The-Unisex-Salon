@@ -10,7 +10,7 @@ export function Footer() {
           {/* Brand */}
           <div className="col-span-1 sm:col-span-2 lg:col-span-1">
             <a href="#home" className="inline-block font-serif text-2xl tracking-wider font-bold text-white flex-col uppercase mb-6">
-              Elysian
+              Styloura
               <span className="block font-sans text-[10px] tracking-[0.2em] text-gold-500 font-normal mt-0.5">
                 The Unisex Salon
               </span>
@@ -60,7 +60,7 @@ export function Footer() {
             <ul className="space-y-4">
               <li className="text-gray-400 text-sm font-light">Shop 19-22, Shiv Arcade, Patan, Gujarat 384265</li>
               <li><a href="tel:+919876543210" className="text-gray-400 hover:text-gold-500 text-sm font-light transition-colors">+91 98765 43210</a></li>
-              <li><a href="mailto:ElysianUnisexSalon@gmail.com" className="text-gray-400 hover:text-gold-500 text-sm font-light transition-colors break-all">ElysianUnisexSalon@gmail.com</a></li>
+              <li><a href="mailto:StylouraUnisexSalon@gmail.com" className="text-gray-400 hover:text-gold-500 text-sm font-light transition-colors break-all">StylouraUnisexSalon@gmail.com</a></li>
             </ul>
           </div>
           
@@ -68,7 +68,7 @@ export function Footer() {
 
         <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-xs text-gray-500 tracking-wider">
-            &copy; 2026 Elysian The Unisex Salon. All Rights Reserved.
+            &copy; 2026 Styloura The Unisex Salon. All Rights Reserved.
           </p>
           <p className="text-xs text-gray-500 tracking-wider">
             Design & Developed by PH Technologies

@@ -9,7 +9,7 @@ export function Testimonials() {
       id: 1,
       name: "Aarti Patel",
       role: "Bridal Client",
-      text: "The team at Elysian made my wedding day incredibly special. The bridal makeup was flawless and lasted throughout the entire event. Highly professional and truly talented.",
+      text: "The team at Styloura made my wedding day incredibly special. The bridal makeup was flawless and lasted throughout the entire event. Highly professional and truly talented.",
       rating: 5
     },
     {
@@ -23,7 +23,7 @@ export function Testimonials() {
       id: 3,
       name: "Priya Sharma",
       role: "Academy Student",
-      text: "Joining the Elysian Academy was the best decision for my career. The mentors are experts, and the hands-on training gave me the confidence to start my own journey.",
+      text: "Joining the Styloura Academy was the best decision for my career. The mentors are experts, and the hands-on training gave me the confidence to start my own journey.",
       rating: 5
     }
   ];
