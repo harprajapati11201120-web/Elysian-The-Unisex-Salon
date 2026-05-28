@@ -36,18 +36,10 @@ export function Hero() {
 
           <div className="flex flex-col sm:flex-row gap-5">
             <a 
-              href="#contact" 
-              className="px-8 py-4 bg-gold-500 text-luxury-black text-sm uppercase tracking-widest text-center hover:bg-gold-400 transition-colors duration-300 relative overflow-hidden group"
-            >
-              <span className="relative z-10">Book Appointment</span>
-              <div className="absolute inset-0 bg-white translate-y-full group-hover:translate-y-0 transition-transform duration-300 ease-out z-0"></div>
-            </a>
-            
-            <a 
               href="https://wa.me/919876543210" 
               target="_blank" 
               rel="noopener noreferrer"
-              className="px-8 py-4 border border-white/30 text-white text-sm uppercase tracking-widest flex items-center justify-center gap-3 hover:border-gold-500 hover:text-gold-500 transition-colors duration-300 glass-panel"
+              className="px-8 py-4 bg-gold-500 text-luxury-black text-sm uppercase tracking-widest flex items-center justify-center gap-3 hover:bg-gold-400 transition-colors duration-300 relative overflow-hidden group font-semibold self-start"
             >
               <MessageCircle size={18} />
               WhatsApp

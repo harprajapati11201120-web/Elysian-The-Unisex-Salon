@@ -66,12 +66,6 @@ export function Navbar() {
               {link.name}
             </a>
           ))}
-          <a
-            href="#contact"
-            className="px-6 py-2.5 border border-gold-500 text-gold-500 text-sm uppercase tracking-wider rounded-none hover:bg-gold-500 hover:text-luxury-black transition-all duration-300"
-          >
-            Book Now
-          </a>
         </nav>
 
         {/* Mobile menu button */}
@@ -105,13 +99,6 @@ export function Navbar() {
                 {link.name}
               </a>
             ))}
-            <a
-              href="#contact"
-              onClick={() => setIsMobileMenuOpen(false)}
-              className="px-8 py-3 bg-gold-500 text-luxury-black text-sm uppercase tracking-wider rounded-none hover:bg-white transition-all duration-300 mt-6"
-            >
-              Book Appointment
-            </a>
           </motion.div>
         )}
       </AnimatePresence>
